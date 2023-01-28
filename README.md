@@ -1,4 +1,4 @@
-# BERENGSEK
+WEBSITE SQL INJECTIONS SCANING
 
 pkg install git
 pkg install python
