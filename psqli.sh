@@ -1,6 +1,3 @@
-Skip to content
-Agressiv1njector
-/
 #!/bin/bash
 export LANG=en_AU.UTF-8
 #bingung mau pake bahasa apa jdi pake campur aja lahh :v
